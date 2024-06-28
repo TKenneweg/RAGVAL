@@ -1,6 +1,6 @@
-# Retrieval Augmented Generation Systems: Automatic Dataset Creation, Evaluation and Boolean Agent Setup
+# RAGVAL: Automatic Dataset Creation and Evaluation for RAG Systems
 
-This repository is for the paper "RAGVAL: An Automatic Dataset Creation and Evaluation Pipeline for RAG Systems". If you use this repository, please cite the paper. The original datasets used in the paper are in the folder wikirag_090124.
+This repository is for the paper "RAGVAL: Automatic Dataset Creation and Evaluation for RAG Systems". If you use this repository, please cite the paper. The original datasets used in the paper are in the folder wikirag_090124.
 
 ## Prerequisites
 
